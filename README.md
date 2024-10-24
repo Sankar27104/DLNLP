@@ -50,7 +50,7 @@ This module implements Word2Vec using Gensim, which creates word embeddings base
 ## Installation
 To run the scripts, follow these steps:
 1. Clone the repository:
-   ```git clone https://github.com/your-repo-link/dlnlp.git```
+   ```git clone https://github.com/Sankar27104/DLNLP.git```
 2. Install the required dependencies:
    ```pip install -r requirements.txt```
 
